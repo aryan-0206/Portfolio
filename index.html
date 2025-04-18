@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <title>Aryan Portfolio</title>
+</head>
+<body>
+    <!--Navigation Bar Design-->
+    <nav>
+        <div class="nav-container">
+            <div class="logo" data-aos="zoom-in" data-aos-duration="1500">
+                Aryan <span>Rajbhar</span>
+            </div>
+            <div class="links">
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100"><a href="#home">Home</a></div>
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="200"><a href="About.html">About</a></div>
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300"><a href="Skills.html">Skills</a></div>
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400"><a href="Projects.html">Projects</a></div>
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500"><a href="Contacts.html">Contact</a></div>
+                <div class="link" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="500"><a href="Certificates.html">Certificates</a></div>
+        </div>
+        <i class="fa-solid fa-bars hamburg" onclick="hamburg()"></i>
+    </div>
+        <div class="dropdown">
+            <div class="links">
+                <a href="Index.html" >Home</a>
+                <a href="About.html">About</a>
+                <a href="Skills.html">Skills</a>
+                <a href="Projects.html">Projects</a>
+                <a href="Contacts.html">Contact</a>
+                <a href="Certificates.html">Certificates</a>
+                <i class="fa-solid fa-xmark cancel" onclick="cancel()"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!--Hero Section-->
+
+    <section>
+        <div class="main-container">
+            <div class="image" data-aos="zoom-out" data-aos-duration="3000">
+                <img src="photo1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h1 data-aos="fade-left" data-aos-duration="1500" data-aos-delay="700">Hey I'm <span>Aryan</span></h1>
+                <div class="typewriter" data-aos="fade-right" data-aos-duration="1500" data-aos-delay="900">I'm a <span class="typewriter-text"></span><label for="">|</label></div>
+                <p data-aos="flip-down" data-aos-duration="1500" data-aos-delay="1100">Hi, I'm Aryan Rajbhar, a Computer Science student with a strong passion for Artificial Intelligence, Web Development, and Software Engineering. I have experience working with Front-end and Back-end Coding Languages, and I recently Developed a Personal AI Project that enhances user interactions through NLP, Api, and Machine Learning.<br>
+
+                    I love tackling challenging problems, contributing to open-source projects, and staying up-to-date with the latest tech trends. My goal is to build innovative AI-driven solutions that make a difference.
+                    <br>
+                    Let's connect and create something amazing together! 🚀</p>
+                <div class="social-links">
+                    <a href="https://github.com/aryan-0206" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1300"><i class="fa-brands fa-github"></i></a>
+                    <a href="https://www.facebook.com/aryan.rajbhar.397501" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1400"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/in/aryan-rajbhar-4970072a4/" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1500"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/arya.n_._/" data-aos="fade-up" data-aos-duration="1500" data-aos-delay="1600"><i class="fa-brands fa-instagram"></i></a>
+                </div>
+                <div class="btn" data-aos="zoom-in" data-aos-duration="1500" data-aos-delay="1800">
+                    <a href="Main Resume.pdf"><button>Download Resume</button></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- JavaScript -->
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+      AOS.init({offset:0});
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
