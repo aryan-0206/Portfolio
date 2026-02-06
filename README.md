@@ -4,7 +4,7 @@
 
 <h2>🚀 Live Demo</h2>
 
-<p><a href="[https://aryan-0206.github.io/Portfolio](https://fastidious-meringue-43a64f.netlify.app/)">View Portfolio</a></p>
+<p><a href="[https://aryan-0206.github.io/Portfolio](https://fastidious-meringue-43a64f.netlify.app/)">View Portfolio ( https://fastidious-meringue-43a64f.netlify.app/ ) </a></p>
 
 <h2>📋 About</h2>
 
@@ -135,4 +135,5 @@ npx serve .
 <hr>
 
 <p><strong>Designed and Developed with ❤️ by Aryan Rajbhar</strong></p>
+
 
