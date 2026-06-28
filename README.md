@@ -4,7 +4,7 @@
 
 <h2>🚀 Live Demo</h2>
 
-<p><a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/">View Portfolio</a> (Replace with your actual GitHub Pages URL)</p>
+<p><a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/">View Portfolio</a> </p>
 
 <h2>📋 About</h2>
 
