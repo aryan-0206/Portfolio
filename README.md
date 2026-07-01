@@ -1,137 +1,211 @@
-<h1>Aryan Rajbhar - Portfolio Website</h1>
+<div align="center">
 
-<p>A modern, responsive portfolio website showcasing my skills, projects, and achievements as a Full Stack Developer.</p>
+# 🌐 Aryan Rajbhar's Portfolio
 
-<h2>🚀 Live Demo</h2>
+### Software Engineer • Full Stack Developer • Python Developer
 
-<p><a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/">View Portfolio</a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Welcome+to+My+Portfolio!;Software+Engineer+🚀;Full+Stack+Developer;Python+Developer;Building+Modern+Web+Experiences" />
 
-<h2>📋 About</h2>
+<br>
 
-<p>This is my personal portfolio website built with HTML, CSS, and JavaScript. It features a sleek design with animations, showcasing my journey as a B.Tech CSE student passionate about web development, AI, and software engineering.</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/aryan-0206/Portfolio?style=for-the-badge)
+![GitHub Repo Stars](https://img.shields.io/github/stars/aryan-0206/Portfolio?style=for-the-badge)
 
-<h2>✨ Features</h2>
+<br><br>
 
-<ul>
-<li><strong>Responsive Design</strong>: Optimized for all devices (desktop, tablet, mobile)</li>
-<li><strong>Smooth Animations</strong>: Powered by AOS (Animate On Scroll) library</li>
-<li><strong>Interactive Elements</strong>: Particle background, typing effect, and hover animations</li>
-<li><strong>Dark Theme</strong>: Modern aesthetic with glowing effects</li>
-<li><strong>Fast Loading</strong>: Optimized for performance</li>
-<li><strong>SEO Friendly</strong>: Proper meta tags and semantic HTML</li>
-</ul>
+<a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Live%20Portfolio-6A5ACD?style=for-the-badge">
+</a>
 
-<h2>🛠️ Technologies Used</h2>
+### 🌍 Live Website
 
-<ul>
-<li><strong>Frontend</strong>: HTML5, CSS3, JavaScript</li>
-<li><strong>Libraries</strong>:
-<ul>
-<li>Font Awesome (Icons)</li>
-<li>Google Fonts (Typography)</li>
-<li>AOS (Animations)</li>
-<li>Particles.js (Background effects)</li>
-</ul>
-</li>
-<li><strong>Tools</strong>: VS Code, Git, GitHub</li>
-</ul>
+## **https://aryan-portfolio.rajbhararyan2003.workers.dev/**
 
-<h2>📁 Project Structure</h2>
+Explore my portfolio directly in your browser.
 
-<pre><code>Portfolio/
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # Main stylesheet
-├── js/
-│   └── script.js       # JavaScript functionality
-├── assets/
-│   └── resume.pdf      # Resume download
-├── images/             # Portfolio images and certificates
-│   ├── home-photo.jpg
-│   ├── about-photo.jpg
-│   ├── project1.jpg - project6.jpg
-│   └── cert1.jpg - cert6.jpg
-└── README.md           # Project documentation
-</code></pre>
+</div>
 
-<h2>🚀 Getting Started</h2>
+---
 
-<h3>Prerequisites</h3>
+# 👋 About
 
-<ul>
-<li>A modern web browser</li>
-<li>Internet connection (for external libraries)</li>
-</ul>
+Welcome to my personal portfolio repository!
 
-<h3>Installation</h3>
+This portfolio showcases my journey as a **Software Engineer**, highlighting my projects, technical skills, internships, certifications, and professional experience.
 
-<ol>
-<li><strong>Clone the repository</strong>
-<pre><code>git clone https://github.com/aryan-0206/Portfolio.git
-cd Portfolio
-</code></pre>
-</li>
+It is designed to provide recruiters and developers with a modern and responsive overview of my work.
 
-<li><strong>Open in browser</strong>
-<ul>
-<li>Open <code>index.html</code> in your preferred web browser</li>
-<li>Or use a local server for better experience:
-<pre><code># Using Python
-python -m http.server 8000
+---
 
-# Using Node.js
-npx serve .
-</code></pre>
-</li>
-</ul>
-</li>
-</ol>
+# ✨ Features
 
-<h2>📱 Sections</h2>
+### 🏠 Home
 
-<ul>
-<li><strong>Home</strong>: Introduction with social links and resume download</li>
-<li><strong>About</strong>: Personal background and statistics</li>
-<li><strong>Skills</strong>: Technical skills with progress bars</li>
-<li><strong>Projects</strong>: Showcase of key projects with GitHub links</li>
-<li><strong>Certificates</strong>: Achievements and certifications</li>
-<li><strong>Contact</strong>: Contact information and form</li>
-</ul>
+- Professional Introduction
+- Resume Download
+- Smooth Navigation
 
-<h2>🎯 Key Highlights</h2>
+### 👨‍💻 About Me
 
-<ul>
-<li><strong>20+ Projects Completed</strong></li>
-<li><strong>10+ Certifications</strong></li>
-<li><strong>1st Place in AI Hackathon</strong> at IIT BHU</li>
-<li><strong>Full Stack Development</strong> expertise</li>
-<li><strong>AI/ML Enthusiast</strong></li>
-</ul>
+- Career Journey
+- Education
+- Technical Interests
 
-<h2>🤝 Connect With Me</h2>
+### 💻 Skills
 
-<ul>
-<li><strong>Email</strong>: rajbhararyan2003@gmail.com</li>
-<li><strong>Phone</strong>: +91 7905962927</li>
-<li><strong>Location</strong>: Varanasi, Uttar Pradesh - 221002</li>
-<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/aryan-rajbhar-4970072a4/">Aryan Rajbhar</a></li>
-<li><strong>GitHub</strong>: <a href="https://github.com/aryan-0206">aryan-0206</a></li>
-<li><strong>Instagram</strong>: <a href="https://www.instagram.com/arya.n_._/">arya.n_._</a></li>
-</ul>
+- Programming Languages
+- Frontend Development
+- Backend Development
+- Databases
+- Developer Tools
 
-<h2>📄 License</h2>
+### 🚀 Projects
 
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+- 🤖 DARK AI
+- 📋 Habit Tracker
+- 🌦️ WeatherHub
+- 🌐 Web Development Projects
+- 🧠 AI & Python Projects
 
-<h2>🙏 Acknowledgments</h2>
+### 💼 Experience
 
-<ul>
-<li>Font Awesome for icons</li>
-<li>Google Fonts for typography</li>
-<li>AOS library for animations</li>
-<li>Particles.js for background effects</li>
-</ul>
+- Internship Experience
+- Team Leadership
+- Technical Contributions
 
-<hr>
+### 📜 Certifications
 
-<p><strong>Designed and Developed with ❤️ by Aryan Rajbhar</strong></p>
+- Professional Certifications
+- Learning Achievements
+
+### 📞 Contact
+
+- Contact Form
+- GitHub
+- LinkedIn
+- Email
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Frontend | React, HTML5, CSS3, JavaScript |
+| Backend | Flask |
+| Programming | Python |
+| Version Control | Git & GitHub |
+| Deployment | Cloudflare Pages |
+
+---
+
+# 📂 Project Structure
+
+```text
+Portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   └── utils/
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+# 🌟 Highlights
+
+- 🎨 Modern UI/UX
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance
+- 🌙 Clean User Experience
+- 🚀 Project Showcase
+- 📄 Resume Download
+- 📬 Contact Form
+- 🔗 Social Media Integration
+
+---
+
+# 🎯 Purpose
+
+This portfolio serves as my digital identity where visitors can explore:
+
+- 💻 Technical Skills
+- 🚀 Projects
+- 📈 Experience
+- 📜 Certifications
+- 🎓 Education
+- 🤝 Contact Information
+
+---
+
+# 🌍 Live Portfolio
+
+## 🚀
+
+### **🔗 https://aryan-portfolio.rajbhararyan2003.workers.dev/**
+
+No installation required.
+
+Visit the live website to explore my latest work, projects, and technical journey.
+
+---
+
+# 👨‍💻 About the Developer
+
+## Aryan Rajbhar
+
+**Software Engineer • Full Stack Developer • Python Developer**
+
+I'm passionate about building scalable web applications, AI-powered solutions, and solving real-world problems through software.
+
+Currently focused on:
+
+- 🧠 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Technologies
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/aryan-0206">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-rajbhar-4970072a4/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aryan-portfolio.rajbhararyan2003.workers.dev/">
+<img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+### *"Code. Create. Learn. Repeat."* 🚀
+
+If you like this project, consider giving it a ⭐.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=140&section=footer"/>
+
+</div>
