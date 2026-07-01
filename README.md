@@ -4,8 +4,6 @@
 
 ### Software Engineer • Full Stack Developer • Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=900&lines=Welcome+to+My+Portfolio!;Software+Engineer+🚀;Full+Stack+Developer;Python+Developer;Building+Modern+Web+Experiences" />
-
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -150,8 +148,6 @@ This portfolio serves as my digital identity where visitors can explore:
 ---
 
 # 🌍 Live Portfolio
-
-## 🚀
 
 ### **🔗 https://aryan-portfolio.rajbhararyan2003.workers.dev/**
 
